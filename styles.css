@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Poppins', sans-serif;
+    background-color: #ffffff;
+    color: #e91e63;
+}
+
+h1, h2, h3, h4, h5, h6, p, label, span {
+    color: #e91e63 !important;
+}
+
+.stButton > button {
+    background-color: #e91e63;
+    color: white;
+    border-radius: 10px;
+    height: 3em;
+    width: 100%;
+    font-weight: 600;
+}
+
+.stDownloadButton > button {
+    background-color: #ff4081;
+    color: white;
+    border-radius: 10px;
+    height: 3em;
+    width: 100%;
+    font-weight: 600;
+    margin-top: 1em;
+}
