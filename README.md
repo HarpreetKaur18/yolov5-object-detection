@@ -83,9 +83,10 @@ yolov5-local-stable/
 
 ## **📸 Screenshots:**
 
-![Detected_image](https://github.com/user-attachments/assets/29df03db-bfa7-4e1d-ba97-7372cfb63836)
+![Detected Image](Detected_image.jpg)
 
-![Detected-Image](https://github.com/user-attachments/assets/f1e70e1c-b368-49a0-b2a4-f8e7552538ec)
+
+![Detected Image](Detected-Image.jpg)
 
 
 ---
