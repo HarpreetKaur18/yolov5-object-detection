@@ -1,13 +1,6 @@
 streamlit
-torch==2.2.0
-torchvision==0.17.0
+torch==2.3.0
 opencv-python-headless
-Pillow
 numpy
-scipy
-seaborn
-pyyaml
-tqdm
-matplotlib
-requests
+pillow
 pandas
